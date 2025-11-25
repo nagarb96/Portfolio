@@ -9,7 +9,7 @@ I'm a passionate Full-Stack Developer transitioning from Digital Marketing. I lo
 - Phone: 750-398-1251  
 - Address:  H No. 661, Gali No. 15, Lakhpath Colony Part 2, Badarpur, Delhi, India  
 - LinkedIn: [linkedin.com/in/nagarb96](https://linkedin.com/in/nagarb96)  
-- GitHub:   [github.com/nagarb96]([https://github.com/nagarb96])  
+- GitHub:   [github.com/nagarb96](https://github.com/nagarb96)  
 - Live Demo : [Open Portfolio ](https://nagarb96.github.io/Portfolio/)
 ---
 
