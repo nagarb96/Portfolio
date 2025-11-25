@@ -6,7 +6,7 @@ I'm a passionate Full-Stack Developer transitioning from Digital Marketing. I lo
 
 ## 📫 Contact Me
 - Email: [Nagarb96@gmail.com](mailto:Nagarb96@gmail.com)  
-- Phone: [750-398-1251](tel:+917503981251)  
+- Phone: [750-398-1251](tel:917503981251)  
 - Address:  H No. 661, Gali No. 15, Lakhpath Colony Part 2, Badarpur, Delhi, India  
 - LinkedIn: [linkedin.com/in/nagarb96](https://linkedin.com/in/nagarb96)  
 - GitHub:   [github.com/nagarb96](https://github.com/nagarb96)  
